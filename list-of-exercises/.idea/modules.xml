@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/list-1-basic-operations/list-1-basic-operations.iml" filepath="$PROJECT_DIR$/list-1-basic-operations/list-1-basic-operations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-1/list-1-exercise-1.iml" filepath="$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-1/list-1-exercise-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-10/list-1-exercise-10.iml" filepath="$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-10/list-1-exercise-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-11/list-1-exercise-11.iml" filepath="$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-11/list-1-exercise-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-12/list-1-exercise-12.iml" filepath="$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-12/list-1-exercise-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-13/list-1-exercise-13.iml" filepath="$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-13/list-1-exercise-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-14/list-1-exercise-14.iml" filepath="$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-14/list-1-exercise-14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-15/list-1-exercise-15.iml" filepath="$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-15/list-1-exercise-15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-16/list-1-exercise-16.iml" filepath="$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-16/list-1-exercise-16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-17/list-1-exercise-17.iml" filepath="$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-17/list-1-exercise-17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-18/list-1-exercise-18.iml" filepath="$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-18/list-1-exercise-18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-19/list-1-exercise-19.iml" filepath="$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-19/list-1-exercise-19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-2/list-1-exercise-2.iml" filepath="$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-2/list-1-exercise-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-20/list-1-exercise-20.iml" filepath="$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-20/list-1-exercise-20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-3/list-1-exercise-3.iml" filepath="$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-3/list-1-exercise-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-4/list-1-exercise-4.iml" filepath="$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-4/list-1-exercise-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-5/list-1-exercise-5.iml" filepath="$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-5/list-1-exercise-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-6/list-1-exercise-6.iml" filepath="$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-6/list-1-exercise-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-7/list-1-exercise-7.iml" filepath="$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-7/list-1-exercise-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-8/list-1-exercise-8.iml" filepath="$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-8/list-1-exercise-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-9/list-1-exercise-9.iml" filepath="$PROJECT_DIR$/list-1-basic-operations/list-1-exercise-9/list-1-exercise-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-2-decision-structures/list-2-decision-structures.iml" filepath="$PROJECT_DIR$/list-2-decision-structures/list-2-decision-structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-1/list-2-exercise-1.iml" filepath="$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-1/list-2-exercise-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-10/list-2-exercise-10.iml" filepath="$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-10/list-2-exercise-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-11/list-2-exercise-11.iml" filepath="$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-11/list-2-exercise-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-12/list-2-exercise-12.iml" filepath="$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-12/list-2-exercise-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-13/list-2-exercise-13.iml" filepath="$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-13/list-2-exercise-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-14/list-2-exercise-14.iml" filepath="$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-14/list-2-exercise-14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-15/list-2-exercise-15.iml" filepath="$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-15/list-2-exercise-15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-2/list-2-exercise-2.iml" filepath="$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-2/list-2-exercise-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-3/list-2-exercise-3.iml" filepath="$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-3/list-2-exercise-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-4/list-2-exercise-4.iml" filepath="$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-4/list-2-exercise-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-5/list-2-exercise-5.iml" filepath="$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-5/list-2-exercise-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-6/list-2-exercise-6.iml" filepath="$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-6/list-2-exercise-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-7/list-2-exercise-7.iml" filepath="$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-7/list-2-exercise-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-8/list-2-exercise-8.iml" filepath="$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-8/list-2-exercise-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-9/list-2-exercise-9.iml" filepath="$PROJECT_DIR$/list-2-decision-structures/list-2-exercise-9/list-2-exercise-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-3-repeating-structures/list-3-exercise-1/list-3-exercise-1.iml" filepath="$PROJECT_DIR$/list-3-repeating-structures/list-3-exercise-1/list-3-exercise-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-3-repeating-structures/list-3-exercise-10/list-3-exercise-10.iml" filepath="$PROJECT_DIR$/list-3-repeating-structures/list-3-exercise-10/list-3-exercise-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-3-repeating-structures/list-3-exercise-2/list-3-exercise-2.iml" filepath="$PROJECT_DIR$/list-3-repeating-structures/list-3-exercise-2/list-3-exercise-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-3-repeating-structures/list-3-exercise-3/list-3-exercise-3.iml" filepath="$PROJECT_DIR$/list-3-repeating-structures/list-3-exercise-3/list-3-exercise-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-3-repeating-structures/list-3-exercise-4/list-3-exercise-4.iml" filepath="$PROJECT_DIR$/list-3-repeating-structures/list-3-exercise-4/list-3-exercise-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-3-repeating-structures/list-3-exercise-5/list-3-exercise-5.iml" filepath="$PROJECT_DIR$/list-3-repeating-structures/list-3-exercise-5/list-3-exercise-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-3-repeating-structures/list-3-exercise-6/list-3-exercise-6.iml" filepath="$PROJECT_DIR$/list-3-repeating-structures/list-3-exercise-6/list-3-exercise-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-3-repeating-structures/list-3-exercise-7/list-3-exercise-7.iml" filepath="$PROJECT_DIR$/list-3-repeating-structures/list-3-exercise-7/list-3-exercise-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-3-repeating-structures/list-3-exercise-8/list-3-exercise-8.iml" filepath="$PROJECT_DIR$/list-3-repeating-structures/list-3-exercise-8/list-3-exercise-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-3-repeating-structures/list-3-exercise-9/list-3-exercise-9.iml" filepath="$PROJECT_DIR$/list-3-repeating-structures/list-3-exercise-9/list-3-exercise-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-3-repeating-structures/list-3-repeating-structures.iml" filepath="$PROJECT_DIR$/list-3-repeating-structures/list-3-repeating-structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-1/list-4-exercise-1.iml" filepath="$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-1/list-4-exercise-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-10/list-4-exercise-10.iml" filepath="$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-10/list-4-exercise-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-11/list-4-exercise-11.iml" filepath="$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-11/list-4-exercise-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-12/list-4-exercise-12.iml" filepath="$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-12/list-4-exercise-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-2/list-4-exercise-2.iml" filepath="$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-2/list-4-exercise-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-3/list-4-exercise-3.iml" filepath="$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-3/list-4-exercise-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-4/list-4-exercise-4.iml" filepath="$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-4/list-4-exercise-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-5/list-4-exercise-5.iml" filepath="$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-5/list-4-exercise-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-6/list-4-exercise-6.iml" filepath="$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-6/list-4-exercise-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-7/list-4-exercise-7.iml" filepath="$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-7/list-4-exercise-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-8/list-4-exercise-8.iml" filepath="$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-8/list-4-exercise-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-9/list-4-exercise-9.iml" filepath="$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-exercise-9/list-4-exercise-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-vectors-and-matrices.iml" filepath="$PROJECT_DIR$/list-4-vectors-and-matrices/list-4-vectors-and-matrices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-5-functions-and-recursion/list-5-exercise-1/list-5-exercise-1.iml" filepath="$PROJECT_DIR$/list-5-functions-and-recursion/list-5-exercise-1/list-5-exercise-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-5-functions-and-recursion/list-5-exercise-2/list-5-exercise-2.iml" filepath="$PROJECT_DIR$/list-5-functions-and-recursion/list-5-exercise-2/list-5-exercise-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-5-functions-and-recursion/list-5-exercise-3/list-5-exercise-3.iml" filepath="$PROJECT_DIR$/list-5-functions-and-recursion/list-5-exercise-3/list-5-exercise-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-5-functions-and-recursion/list-5-exercise-4/list-5-exercise-4.iml" filepath="$PROJECT_DIR$/list-5-functions-and-recursion/list-5-exercise-4/list-5-exercise-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-5-functions-and-recursion/list-5-exercise-5/list-5-exercise-5.iml" filepath="$PROJECT_DIR$/list-5-functions-and-recursion/list-5-exercise-5/list-5-exercise-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-5-functions-and-recursion/list-5-exercise-6/list-5-exercise-6.iml" filepath="$PROJECT_DIR$/list-5-functions-and-recursion/list-5-exercise-6/list-5-exercise-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-5-functions-and-recursion/list-5-exercise-6/list-5-exercise-6-exercise-1/list-5-exercise-6-exercise-1.iml" filepath="$PROJECT_DIR$/list-5-functions-and-recursion/list-5-exercise-6/list-5-exercise-6-exercise-1/list-5-exercise-6-exercise-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-5-functions-and-recursion/list-5-exercise-6/list-5-exercise-6-exercise-2/list-5-exercise-6-exercise-2.iml" filepath="$PROJECT_DIR$/list-5-functions-and-recursion/list-5-exercise-6/list-5-exercise-6-exercise-2/list-5-exercise-6-exercise-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-5-functions-and-recursion/list-5-exercise-6/list-5-exercise-6-exercise-3/list-5-exercise-6-exercise-3.iml" filepath="$PROJECT_DIR$/list-5-functions-and-recursion/list-5-exercise-6/list-5-exercise-6-exercise-3/list-5-exercise-6-exercise-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-5-functions-and-recursion/list-5-exercise-6/list-5-exercise-6-exercise-4/list-5-exercise-6-exercise-4.iml" filepath="$PROJECT_DIR$/list-5-functions-and-recursion/list-5-exercise-6/list-5-exercise-6-exercise-4/list-5-exercise-6-exercise-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-5-functions-and-recursion/list-5-exercise-6/list-5-exercise-6-exercise-5/list-5-exercise-6-exercise-5.iml" filepath="$PROJECT_DIR$/list-5-functions-and-recursion/list-5-exercise-6/list-5-exercise-6-exercise-5/list-5-exercise-6-exercise-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-5-functions-and-recursion/list-5-functions-and-recursion.iml" filepath="$PROJECT_DIR$/list-5-functions-and-recursion/list-5-functions-and-recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-6-oop-classes/list-6-oop-classes.iml" filepath="$PROJECT_DIR$/list-6-oop-classes/list-6-oop-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-6-oop-classes/list-6-project-1/list-6-project-1.iml" filepath="$PROJECT_DIR$/list-6-oop-classes/list-6-project-1/list-6-project-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-6-oop-classes/list-6-project-2/list-6-project-2.iml" filepath="$PROJECT_DIR$/list-6-oop-classes/list-6-project-2/list-6-project-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-6-oop-classes/list-6-project-3/list-6-project-3.iml" filepath="$PROJECT_DIR$/list-6-oop-classes/list-6-project-3/list-6-project-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list-of-exercises.iml" filepath="$PROJECT_DIR$/list-of-exercises.iml" />
+    </modules>
+  </component>
+</project>
